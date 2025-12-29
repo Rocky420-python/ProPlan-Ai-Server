@@ -29,5 +29,5 @@ ProPlan AI-এর ব্যাকএন্ড সার্ভারটি **Fast
 
 ১. **প্রোজেক্টটি ক্লোন করুন:**
    ```bash
-   git clone [https://github.com/yourusername/ProPlan-Ai-Server.git](https://github.com/yourusername/ProPlan-Ai-Server.git)
+   git clone [(https://github.com/Rocky420-python/ProPlan-Ai-Server.git)]
    cd ProPlan-Ai-Server
