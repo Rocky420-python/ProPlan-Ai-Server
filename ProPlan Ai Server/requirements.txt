@@ -1,0 +1,5 @@
+bcrypt
+sqlite3
+email_validator
+fastapi
+openai
